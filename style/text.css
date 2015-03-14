@@ -1,0 +1,28 @@
+#del
+{
+    margin-top: 10px;
+    text-align: center;
+}
+
+#hello
+{
+    font-family: MC;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#overflow
+{
+    overflow: auto;
+    overflow-x: hidden;
+    width: 570px;
+    height: 900px;
+}
+
+#mods
+{
+    font-family: MC;
+    margin-top: 40px;
+    margin-left: 40px;
+    
+}
